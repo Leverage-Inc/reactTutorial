@@ -1,0 +1,3 @@
+- GitHubにリポジトリ作って
+- branch名を“feat/kikuchi”にして
+- 機能追加ごとにgit commit/ git push
